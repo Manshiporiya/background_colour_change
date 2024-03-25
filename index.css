@@ -1,0 +1,15 @@
+#redBtn,#blackBtn,#blueBtn,#greenBtn,#pinkBtn{
+    background:none;
+    border:none;
+    font-size:25px;
+    color:mintcream;
+    background-color:hotpink;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    
+}
+    
+
